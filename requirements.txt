@@ -1,0 +1,9 @@
+ultralytics==8.0.26
+numpy>=1.18.5
+opencv-python==4.5.4.60
+Pillow>=7.1.2
+requests>=2.23.0
+torch>=1.7.0
+torchvision>=0.8.1
+filterpy==1.4.5
+scikit-image==0.19.3
