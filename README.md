@@ -1,6 +1,6 @@
 # Car Counter
 
-[Clique aqui para a versão em português](#[PORTUGUÊS])
+[Clique aqui para a versão em português](#português)
 
 This project uses YOLOv8 for car detection and the SORT algorithm for tracking. It identifies cars and counts them as they cross a predefined line within the video.
 
